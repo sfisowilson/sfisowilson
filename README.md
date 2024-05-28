@@ -42,6 +42,6 @@ Email: [loverboy.sfiso@gmail.com]
 <!-- [LinkedIn: [Your LinkedIn Profile]
 Twitter: [Your Twitter Handle]](url) -->
 ### 🌟 Fun Fact
-When I'm not coding, you can find me exploring new hiking trails, playing chess, or experimenting with new recipes in the kitchen.
+When I'm not coding, you can find me exploring new hiking trails, or experimenting with new recipes in the kitchen.
 
 Feel free to check out my repositories and connect with me. Let's build something amazing together!
