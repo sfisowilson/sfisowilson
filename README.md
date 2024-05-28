@@ -39,8 +39,8 @@ Games: Created 2D and 3D games with Unity, focusing on immersive user experience
 Websites: Designed and maintained responsive websites using Blazor, React, and WordPress.
 ### 📫 How to reach me
 Email: [loverboy.sfiso@gmail.com]
-<!-- [LinkedIn: [Your LinkedIn Profile]
-Twitter: [Your Twitter Handle]](url) -->
+[LinkedIn: [[LinkedIn sfisowilson](https://www.linkedin.com/in/sfisowilson/)]
+<!-- Twitter: [Your Twitter Handle]](url) -->
 ### 🌟 Fun Fact
 When I'm not coding, you can find me exploring new hiking trails, or experimenting with new recipes in the kitchen.
 
