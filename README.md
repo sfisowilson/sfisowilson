@@ -40,7 +40,7 @@ Websites: Designed and maintained responsive websites using Blazor, React, and W
 ### 📫 How to reach me
 Email: [loverboy.sfiso@gmail.com]
 [LinkedIn: [[LinkedIn sfisowilson](https://www.linkedin.com/in/sfisowilson/)]
-<!-- Twitter: [Your Twitter Handle]](url) -->
+Portfolio: [[Sfiso Wilson](https://sfiso-wilson.webwish.co.za/home)]
 ### 🌟 Fun Fact
 When I'm not coding, you can find me exploring new hiking trails, or experimenting with new recipes in the kitchen.
 
